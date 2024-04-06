@@ -48,5 +48,5 @@ But these were the key takeaways while making this project.
 
 I'm making new projects using this workflow I learnt and the workflow is not fixed and varies from person to person.
 
-Link to download the data
+## Link to download the data
 (https://github.com/mrdbourke/zero-to-mastery-ml/raw/master/data/bluebook-for-bulldozers.zip)
