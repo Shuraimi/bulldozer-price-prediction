@@ -48,5 +48,7 @@ But these were the key takeaways while making this project.
 
 I'm making new projects using this workflow I learnt and the workflow is not fixed and varies from person to person.
 
+To run the notebook on your system, download the data as zip file from the link below and then extract it in a data folder.
+
 ## Link to download the data
 (https://github.com/mrdbourke/zero-to-mastery-ml/raw/master/data/bluebook-for-bulldozers.zip)
